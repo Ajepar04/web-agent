@@ -1,0 +1,17 @@
+# Dependencies and build output
+node_modules/
+.next/
+out/
+
+# Local configuration and secrets
+.env
+.env.local
+.env.*.local
+
+# TypeScript build cache
+*.tsbuildinfo
+
+# Logs and editor files
+*.log
+.DS_Store
+
